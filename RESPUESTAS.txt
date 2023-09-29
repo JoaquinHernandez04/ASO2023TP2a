@@ -1,0 +1,7 @@
+
+5 - DETECCION DEL PROBLEMA - 
+
+1- A simple vista se puede ver el error de que en la primera ejecucion, el usuario 1 se come todas las hamburguesas, en cambio en la segunda ejecuicon es el usuario 0 el que se come las mismas 
+
+
+2- La falla que ocurre en el código y provoca que cada ejecución presente resultados diferentes se conoce como "race condition".
